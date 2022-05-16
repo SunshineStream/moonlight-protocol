@@ -1,0 +1,5 @@
+# ignore build directory
+build
+
+# ignore project folders
+.idea
